@@ -1,1 +1,2 @@
 desde la pc local
+Cambios que se estan realizando editando por el mismo archivo
